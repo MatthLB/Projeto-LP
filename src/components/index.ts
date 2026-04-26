@@ -1,0 +1,8 @@
+export { Nav } from './Nav'
+export { Hero } from './Hero'
+export { SocialProof } from './SocialProof'
+export { Services } from './Services'
+export { BentoGrid } from './BentoGrid'
+export { FinalCta } from './FinalCta'
+export { Footer } from './Footer'
+export { default as LandingPage } from './LandingPage'
