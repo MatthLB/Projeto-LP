@@ -65,7 +65,7 @@ O projeto está configurado para deploy na [Vercel](https://vercel.com). Basta c
 
 ## 📬 Contato
 
-Feito por **[Seu Nome]** — Gestor de Tráfego + Desenvolvedor Frontend.
+Feito por **Matheus Bezerra** — Gestor de Tráfego + Desenvolvedor Frontend.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0071bc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bezerra-0195b0235/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
